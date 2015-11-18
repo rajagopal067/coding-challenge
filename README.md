@@ -1,6 +1,17 @@
 How to run this script:
 
-use python 3.4
+use python2.7
 
-1.Clone the git repository
+1. Clone the git repository https://github.com/rajagopal067/coding-challenge.git
 
+2. Make run.sh executable by
+   chmod +x run.sh and run using
+   ./run.sh
+
+3. output will be stored in tweet_output directory
+
+Sample input:
+
+I have taken first 20 lines of tweets.txt and put in sample_tweets.txt in tweet_input folder
+and stored the outputs of tweets_cleaned.py and average_degree.py in tweet_output folder
+with names sample_tweets_cleaned.txt and sample_tweets_avg_degree.txt.
