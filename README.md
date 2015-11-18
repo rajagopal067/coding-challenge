@@ -2,6 +2,8 @@ How to run this script:
 
 use python2.7
 
+ft1.txt and ft2.txt are the required output files
+
 1. Clone the git repository https://github.com/rajagopal067/coding-challenge.git
 
 2. Make run.sh executable by
@@ -16,6 +18,5 @@ Sample input:
 
 sample_tweets.txt in tweet_input folder is the  first 20 lines of tweets.txt
 
-I put the outputs of tweets_cleaned.py and average_degree.py in tweet_output folder
-
-with names sample_tweets_cleaned.txt and sample_tweets_avg_degree.txt.
+sample_tweets_cleaned.txt is output of tweets_cleaned.py on sample_tweets.txt
+similarly, sample_tweets_avg_degree.txt is output of average_degree.py on sample_tweets.txt
